@@ -1,6 +1,6 @@
 {
   "name": "poolmysql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Promise poolmysql",
   "main": "index.js",
   "scripts": {
